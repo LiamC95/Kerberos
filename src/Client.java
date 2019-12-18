@@ -194,7 +194,8 @@ public class Client
     {
         System.out.println(" 1 - Create Shared Key");
         System.out.println(" 2 - Share Your Message");
-        System.out.println(" 3 - Get Other Users");
+        System.out.println(" 3 - Get All Users");
+        System.out.println(" 4 - Get user message");
         System.out.println("-1 - Exit app");
     }
     public static User newUser(Scanner in){
