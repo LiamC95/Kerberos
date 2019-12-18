@@ -205,7 +205,7 @@ public class Client
 
         
         
-        System.out.println("Enter Your secret Message");
+        System.out.println("Enter Your secret Message (BigInteger)");
         String message = in.nextLine();
 
 
